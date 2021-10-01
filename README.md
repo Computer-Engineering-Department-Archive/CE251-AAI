@@ -1,2 +1,2 @@
-# CEIT-AI
-Artificial-intelligence course at Amirkabir University of Technology 
+# CE251-AAI
+Principles and Applications of Artificial Intelligence
